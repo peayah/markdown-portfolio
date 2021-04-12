@@ -1,0 +1,3 @@
+- apples
+- strawberries
+- peet's coffee
